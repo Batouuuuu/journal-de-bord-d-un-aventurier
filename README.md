@@ -1,0 +1,1 @@
+Ce programme permet de créer des nouvelles notes, de toutes les afficher, les ouvrir. Le tout est géré par un accès avec un login screen. Les notes sont classés en fonction de la date à laquelle l'utilisateur les modifie.
